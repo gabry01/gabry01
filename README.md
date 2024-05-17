@@ -1,21 +1,12 @@
 <h1 align="center">Hi 👋, I'm Gabriele Tam</h1>
-<h3 align="center">Master's Degree Student in Artificial Intelligence & Cybersecurity</h3>
-<h3 align="center">at the University of Udine and Alpen-Adria Universität Klagenfurt</h3>
-
-- 🛡️ Member, tutor, and CTF player at **MadrHacks**, the CyberSecurity team of the University of Udine
+<h3 align="center">Master's Degree Student in Artificial Intelligence & Cybersecurity at the University of Udine and Alpen-Adria Universität Klagenfurt</h3>
 
 - 🧠 Passionate about learning **advanced concepts in both cybersecurity and AI**
 
-- 🌟 My interests include: **cybersecurity**, **intelligence**, **cyber intelligence**, **open source intelligence (OSINT)**, **artificial intelligence**, and **autonomous aerial systems**
+- 🌟 My interests include: **cybersecurity**, **intelligence**, **cyber intelligence**, **open source intelligence (OSINT)** and **artificial intelligence**
 
-- 📬 Reach me at **voltan.gabriele@icloud.com**
 
-<h3 align="left">My Publications:</h3>
-<p align="left">
-<a href="https://scholar.google.com/citations?hl=en&user=0HbvA7UAAAAJ" target="_blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Gabriele Tam Scholar" height="30" width="40" />
-</a>
-</p>
+
 
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
@@ -40,9 +31,6 @@
   </a>  
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="Haskell" width="40" height="40"/> 
   </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
